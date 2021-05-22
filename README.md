@@ -1,7 +1,7 @@
 # Rock_Paper_Scissor_game
  *Beginner  project  in python.*
 ### @Kewang_Limbu::wave: 👨‍💻
-
+*
 #### *In this game:*
 *Each player choses a move (simultaneously) from the choices:*
 *rock, paper or scissors.*
